@@ -1,5 +1,5 @@
 ## Description ##
-SBBEditor coded with javascript. It's developed for simplicity and have simple usage. You can use Simple BBCode Editor for add your bbcode's to your textarea/inputbox/etc..
+SBBEditor is coded with javascript. It's developed for simplicity and for simple usage. You can use the Simple BBCode Editor to add your bbcode's to your textarea/inputbox/etc..
 
 ## Usage ##
 First, you need to insert editor.js to your html file;
@@ -8,7 +8,7 @@ First, you need to insert editor.js to your html file;
 <script src="sbbeditor.js" type="text/javascript"></script>
 ```
 
-After thati you can give a function to your html elements (button, image, string etc..) like this;
+After that you can give a function to your html elements (button, image, string etc..) like this;
 
 ```
 <input type="button" name="bold" value="B" onclick="javascript:addtag('contentArea','bold');">
